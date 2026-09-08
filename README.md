@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Problem Statement (Hyderabad Context)
+## 🎯 Problem Statement
 
 In India, **68% packaged foods contain Maida (refined flour) and Palm Oil** but labels are in English. Mothers in Guntur, Krishna, and Hyderabad cannot read them. 5-year-old kids consume high-sugar biscuits daily because Red/Green health rating is missing.
 
@@ -57,8 +57,6 @@ In India, **68% packaged foods contain Maida (refined flour) and Palm Oil** but 
 - [x] **Home-cooked Recipe:** 3-step recipe for each swap
 
 ### Language Support (7 Languages)
-- [x] తెలుగు - Guntur యాస (Default) - "Idi vaddu ra! Harm ekkuva"
-- [x] తెలుగు - Krishna యాస - "Idi manchoddu, maida undi"
 - [x] తెలుగు (Standard)
 - [x] हिंदी
 - [x] தமிழ்
