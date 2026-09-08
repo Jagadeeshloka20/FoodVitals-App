@@ -1,7 +1,7 @@
-# FoodVitals v1 - packaging food App
+# FoodVitals v1 - Packaging Food App
 ### Indian Accepted-Ready Prototype
 
-> **200 indian Products Manually Verified, Not 1 Lakh Scraped. Each has FSSAI number, Maida/Palm Oil flag, and Telugu swap.**
+> **200 Indian Products Manually Verified, Not 1 Lakh Scraped. Each has FSSAI number, Maida/Palm Oil flag, and Telugu swap.**
 
 [![Version](https://img.shields.io/badge/Version-v1.0%20Accepted--Ready-green)]()
 [![Products](https://img.shields.io/badge/Products-200%20Verified%20Hyderabad-orange)]()
