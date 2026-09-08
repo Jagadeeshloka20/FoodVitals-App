@@ -1,7 +1,7 @@
-# FoodVitals v1 - Telugu-First Food Label Literacy App
-### Hyderabad / Telangana Accepted-Ready Prototype
+# FoodVitals v1 - packaging food App
+### Indian Accepted-Ready Prototype
 
-> **200 Hyderabad Products Manually Verified, Not 1 Lakh Scraped. Each has FSSAI number, Maida/Palm Oil flag, and Telugu swap.**
+> **200 indian Products Manually Verified, Not 1 Lakh Scraped. Each has FSSAI number, Maida/Palm Oil flag, and Telugu swap.**
 
 [![Version](https://img.shields.io/badge/Version-v1.0%20Accepted--Ready-green)]()
 [![Products](https://img.shields.io/badge/Products-200%20Verified%20Hyderabad-orange)]()
